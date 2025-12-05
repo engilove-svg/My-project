@@ -1,1 +1,1 @@
-# python-course
+# full-python-course
