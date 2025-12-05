@@ -1,1 +1,1 @@
-# My-project
+# python-course
